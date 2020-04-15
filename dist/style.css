@@ -1,0 +1,134 @@
+.picture{
+  background-image: url(http://stayathome-syllabus.greenfox.academy/week01/assets/first-website-header.png);  
+  background-size: 100%;
+  width:900px;
+  height:500px;
+  background-repeat: no-repeat;
+  margin: auto;
+  margin-top:-19px;
+   
+}
+.hi{
+  font-family: 'Abril Fatface', cursive;
+  color: #222;
+  font-size: 20px;
+  margin-top:-350px;
+  margin-left: 380px;  
+}
+.hi2{
+  font-family: 'Abril Fatface', cursive;
+  color: #222;
+  font-size: 70px;
+  margin-top: -20px;
+}
+.list{
+  list-style: square;
+}
+main{
+  margin-top: 90px;
+  margin-left: 400px;
+  margin-right: 300px;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222 ;
+  line-height:1.9;
+}
+.together{
+  font-family: 'Abril Fatface', cursive;
+  font-size:27px;
+  color: white;
+  background: #222;
+    margin-right:150px;
+  padding: 30px;
+  height:90px;
+  position: relative;
+  margin-left: -80px;
+     }
+blockquote::before {
+   
+  content: '”';
+  margin-left: 10px;
+  content: open-quote;
+  top: -45px;
+  left: -15px;
+  position: absolute;
+  font-size:80px;
+}
+
+p2, p3, p4, p5, p6, p7{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222 ;
+  font-size: 22px;
+}
+h2,h3{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222 ;
+  font-size: 25px;
+  
+}
+
+section, section2{
+  font-size: 13px;
+}
+.find{
+  font-family: 'Abril Fatface', cursive;
+  font-size:27px;
+  color: white;
+  background: #222;
+    margin-right:150px;
+  padding: 30px;
+  height:90px;
+  
+  margin-left: -80px;
+}  
+blockquote2::before {
+   
+  content:'”';
+  content: open-quote;
+  margin-left:10px;
+  top: -45px;
+  left: 50px;
+  font-size:80px;
+}
+section3, section4, section5, section6, section7 {
+  font-family: 'Merriweather', serif;
+}
+
+
+blockquote3::before {
+ content: '”';
+  margin-left: 10px;
+  content: open-quote;
+  top: -45px;
+  left: -5px;
+  position: absolute;
+  font-size:80px;}
+.when{
+  background:#222;
+  width:700px;
+  color:white;
+  font-size:27px;
+  font-family: 'Abril Fatface', cursive;
+  display:flex;
+  align-items:center;
+  position:relative;
+ margin-right:100px;
+  padding:30px;
+}
+footer{
+  font-size:50px;  
+ margin-top: 90px;
+  margin-left: 400px;
+ 
+}
+h5{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222 ;
+  font-size: 25px;  
+  }
+  
+.list7 {
+     font-family: 'Josefin Sans', sans-serif;
+  color: #222 ;
+  font-size: 15px;
+  
+}
